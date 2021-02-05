@@ -1,7 +1,7 @@
 pipeline {
     agent any 
     stages {
-        stage('Hello Stage') {
+        stage('Hello Jenkins') {
             steps {
                 echo 'Testing jenkins!' 
             }
