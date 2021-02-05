@@ -1,0 +1,22 @@
+{
+  "sezioni": [
+    {
+      "nome": "home",
+      "id": "1",
+      "path":"/"
+    },
+    {
+      "nome": "Italia",
+      "id": "2",
+      "path":"/italia"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "titolo": "Nuovo gioco rilasciato dall'azienda italiana \"Pippo Pluto SRL\" ",
+      "id_sezione": ["2"],
+      "timestamp_pubblicazione": "1612347806"
+    }
+  ]
+}
